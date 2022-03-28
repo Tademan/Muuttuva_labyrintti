@@ -535,12 +535,12 @@ def pisteen_saaminen():
     return False
 
 
-koko2 = [5, 5]  # leveys ,korkeus
+koko2 = [3, 3]  # leveys ,korkeus
 tyhjien_määrä = 2
 täysien_määrä = 2
-aarteiden_määrä = 50
+aarteiden_määrä = 24
 pelaajamäärä = 2
-zoom = 20
+zoom = 30
 GOD = False
 vapaus = 1
 salaus = 1  # käytetäänkö salausta vai ei
